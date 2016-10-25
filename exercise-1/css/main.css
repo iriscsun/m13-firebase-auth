@@ -39,6 +39,14 @@ form.authenticate {
     font-weight: bold;
 }
 
+#signUp {
+    float: right;
+}
+
+#button2 {
+    float: right;
+}
+
 #chat-box {
     border: 1px solid #d3d3d3;
     padding: 20px;
